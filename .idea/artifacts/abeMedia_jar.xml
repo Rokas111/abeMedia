@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="abeMedia:jar">
+    <output-path>$PROJECT_DIR$/../bungeecord/Hub/plugins</output-path>
+    <root id="archive" name="abeMedia.jar">
+      <element id="module-output" name="abeMedia" />
+    </root>
+  </artifact>
+</component>

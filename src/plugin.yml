@@ -1,0 +1,14 @@
+name: abeMedia
+main: me.Xocky.abeMedia.core.Media
+version: 1.0
+author: Rokaz
+commands:
+  discord:
+    description: Shows you server discord info
+    usages: /discord
+  store:
+    description: Shows you server store info
+    usages: /store
+  forums:
+    description: Shows you server forum info
+    usages: /forums
